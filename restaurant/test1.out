@@ -1,0 +1,25 @@
+Table 1 maximum occupancy 10
+Table 2 maximum occupancy 7
+Table 3 maximum occupancy 7
+Table 4 maximum occupancy 5
+Table 5 maximum occupancy 5
+Table 6 maximum occupancy 5
+Trying to seat party of 5
+5 guests added to table 1
+Trying to seat party of 3
+3 guests added to table 1
+Trying to seat party of 2
+2 guests added to table 1
+Trying to seat party of 2
+2 guests added to table 2
+Trying to seat party of 7
+7 guests added to table 3
+Trying to seat party of 4
+4 guests added to table 2
+Trying to seat party of 3
+3 guests added to table 4
+Summary:
+table 1 10/10
+table 2 6/7
+table 3 7/7
+table 4 3/5
