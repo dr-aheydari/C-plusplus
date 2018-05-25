@@ -1,5 +1,5 @@
 //
-// First Attempt attempt for HW3: point.cpp
+// Final Attempt attempt for HW3: point.cpp
 //
 // Also on my github: https://github.com/dr-aheydari/C-plusplus
 // Ali Heydari
